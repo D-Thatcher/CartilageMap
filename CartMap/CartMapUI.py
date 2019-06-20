@@ -1,10 +1,5 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file 'C:\Users\Dan\Desktop\ImageProcessingApp\CreatePyFromUI\Input\CartMapUI.ui'
-#
-# Created: Thu Aug 02 14:10:52 2018
-#      by: PyQt4 UI code generator 4.11.3
-#
 # WARNING! All changes made in this file will be lost!
 
 from PyQt4 import QtCore, QtGui

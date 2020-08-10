@@ -16,42 +16,42 @@ The remaining libraries can be installed using `pip install numpy matplotlib ope
 Run the `CartilageMap.py` file and a user-interface will open<br>
 
 
-![alt text](https://github.com/D-Thatcher/CartilageMap/blob/master/1.PNG)
+![alt text](https://github.com/D-Thatcher/CartilageMap/blob/master/assets/1.PNG)
 
 
 Add your structural, anatomical map, and T2 image files and select Load.
 
 
-![alt text](https://github.com/D-Thatcher/CartilageMap/blob/master/3.PNG)
+![alt text](https://github.com/D-Thatcher/CartilageMap/blob/master/assets/3.PNG)
 
 
 The image will load to its true size. You can zoom in or out using the +/- buttons in the top-left corner. And, you can scroll through the slices by first selecting a view, then moving the axis bar.
 
 
-![alt text](https://github.com/D-Thatcher/CartilageMap/blob/master/4.PNG)
+![alt text](https://github.com/D-Thatcher/CartilageMap/blob/master/assets/4.PNG)
 
 
 Once your map is reached, you'll notice it will be mapped to a red colour scale.
 
 
-![alt text](https://github.com/D-Thatcher/CartilageMap/blob/master/5.PNG)
+![alt text](https://github.com/D-Thatcher/CartilageMap/blob/master/assets/5.PNG)
 
 
 Select the cartilage distribution button to load a histogram of the map's pixel intensity for non-zero regions.
 
 
-![alt text](https://github.com/D-Thatcher/CartilageMap/blob/master/7.PNG)
+![alt text](https://github.com/D-Thatcher/CartilageMap/blob/master/assets/7.PNG)
 
 
 Here is a view from another axial direction, with its corresponding distribution.
 
 
-![alt text](https://github.com/D-Thatcher/CartilageMap/blob/master/8.PNG)
+![alt text](https://github.com/D-Thatcher/CartilageMap/blob/master/assets/8.PNG)
 
 
 Finally, it can be useful to open multiple anatomical maps at the same time. Since each overlaid map is the product of the T2 image and the anatomical map, you will need to `Add` one new T2 image for every new anatomical map.<br>
 Although, it is also possible to reuse the T2 image, you will still need to add it, even if it is the same path. Note that this doesn't require any extra memory, as it is only the product and the structural image that is stored.
 
 
-![alt text](https://github.com/D-Thatcher/CartilageMap/blob/master/9.png)
+![alt text](https://github.com/D-Thatcher/CartilageMap/blob/master/assets/9.png)
 
